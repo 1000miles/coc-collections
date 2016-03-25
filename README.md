@@ -4,12 +4,12 @@ This repo is for collecting the code of conducts from different events, conferen
 
 ### CoC Originals (A-Z)
 
-* [Ada Initiative](http://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) - initiated by Ada Initiative
+* [Ada Initiative Code of Conduct](http://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) - initiated by Ada Initiative
 * [Contributor Convenant](http://contributor-covenant.org/) - initiated by Coraline Ada Ehmke
 * [Django Code of Conduct](https://www.djangoproject.com/conduct/) - initiated by Django Software Foundation
-* [Portland Ruby Brigade](http://pdxruby.org/codeofconduct) - initiated by Portland Ruby Brigade
+* [Portland Ruby Brigade Code of Conduct](http://pdxruby.org/codeofconduct) - initiated by Portland Ruby Brigade
 * [Python Code of Conduct](https://www.python.org/psf/codeofconduct/) - initiated by Python Software Foundation
-* [Ruby](https://www.ruby-lang.org/en/conduct/) - initiated by Ruby Community
+* [Ruby Code of Conduct](https://www.ruby-lang.org/en/conduct/) - initiated by Ruby Community
 
 ### CoC Adaptors & Subadaptors (A-Z)
 * [Berlin Code of Conduct](http://berlincodeofconduct.org/) - adopted by [Ruby Berlin e.V.](http://www.rubyberlin.org) from [Portland Ruby Brigade](http://pdxruby.org/codeofconduct)
