@@ -55,3 +55,4 @@ This repo is for collecting the code of conducts from different events, conferen
 * [Juniors Are Awesome](https://github.com/rubycorns/jaa/blob/master/CODE_OF_CONDUCT_EN.md) - adopted by JAA from [Contributor Convenant v1.2](http://contributor-covenant.org/version/1/2/0/)
 * [Ruby on Rails](http://rubyonrails.org/conduct/) - adopted by Ruby on Rails from [Contributor Convenant v1.4](http://contributor-covenant.org/version/1/4/)
 * [Rust](https://www.rust-lang.org/conduct.html) - adopted by Rust from [Isaac Z. Schlueter](http://blog.izs.me/post/30036893703/policy-on-trolling) & [Contributor Convenant v1.3](http://contributor-covenant.org/version/1/3/0/)
+* [Semantic RS](https://github.com/semantic-rs/semantic-rs) - adopted by Semantic RS from [Contributor Convenant v1.3](http://contributor-covenant.org/version/1/3/0/)
