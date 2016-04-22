@@ -5,7 +5,7 @@ This repo is for collecting the code of conducts from different events, conferen
 ### CoC Originals (A-Z)
 
 * [Ada Initiative Code of Conduct](http://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) - initiated by Ada Initiative
-* [Contributor Convenant](http://contributor-covenant.org/) - initiated by Coraline Ada Ehmke
+* [Contributor Covenant](http://contributor-covenant.org/) - initiated by Coraline Ada Ehmke
 * [Django Code of Conduct](https://www.djangoproject.com/conduct/) - initiated by Django Software Foundation
 * [Portland Ruby Brigade Code of Conduct](http://pdxruby.org/codeofconduct) - initiated by Portland Ruby Brigade
 * [Python Code of Conduct](https://www.python.org/psf/codeofconduct/) - initiated by Python Software Foundation
@@ -52,7 +52,7 @@ This repo is for collecting the code of conducts from different events, conferen
 * [Citizen Code of Conduct](http://citizencodeofconduct.org/) - adopted by Citizen Code of Conduct from [Django Code of Conduct](https://www.djangoproject.com/conduct/) & [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
   * [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/about/code-of-conduct/) - adopted by RGSoC from [Citizen Code of Conduct](http://citizencodeofconduct.org/)
 * [CSS Classes](http://cssclasses.cssconf.eu/code-of-conduct/) - adopted by CSS Classes from [JS Conf 2012](http://2012.jsconf.us/#/about) & [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
-* [Juniors Are Awesome](https://github.com/rubycorns/jaa/blob/master/CODE_OF_CONDUCT_EN.md) - adopted by JAA from [Contributor Convenant v1.2](http://contributor-covenant.org/version/1/2/0/)
-* [Ruby on Rails](http://rubyonrails.org/conduct/) - adopted by Ruby on Rails from [Contributor Convenant v1.4](http://contributor-covenant.org/version/1/4/)
-* [Rust](https://www.rust-lang.org/conduct.html) - adopted by Rust from [Isaac Z. Schlueter](http://blog.izs.me/post/30036893703/policy-on-trolling) & [Contributor Convenant v1.3](http://contributor-covenant.org/version/1/3/0/)
-* [Semantic RS](https://github.com/semantic-rs/semantic-rs) - adopted by Semantic RS from [Contributor Convenant v1.3](http://contributor-covenant.org/version/1/3/0/)
+* [Juniors Are Awesome](https://github.com/rubycorns/jaa/blob/master/CODE_OF_CONDUCT_EN.md) - adopted by JAA from [Contributor Covenant v1.2](http://contributor-covenant.org/version/1/2/0/)
+* [Ruby on Rails](http://rubyonrails.org/conduct/) - adopted by Ruby on Rails from [Contributor Covenant v1.4](http://contributor-covenant.org/version/1/4/)
+* [Rust](https://www.rust-lang.org/conduct.html) - adopted by Rust from [Isaac Z. Schlueter](http://blog.izs.me/post/30036893703/policy-on-trolling) & [Contributor Covenant v1.3](http://contributor-covenant.org/version/1/3/0/)
+* [Semantic RS](https://github.com/semantic-rs/semantic-rs) - adopted by Semantic RS from [Contributor Covenant v1.3](http://contributor-covenant.org/version/1/3/0/)
