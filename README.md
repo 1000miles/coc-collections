@@ -15,6 +15,7 @@ This repo is for collecting the code of conducts from different events, conferen
 * [Berlin Code of Conduct](http://berlincodeofconduct.org/) - adopted by [Ruby Berlin e.V.](http://www.rubyberlin.org) from [Portland Ruby Brigade](http://pdxruby.org/codeofconduct)
   * [Berlin Mobile](http://www.meetup.com/Buenos-Aires-Django-Meetup/) - adopted by Buenos Aires Django Meetup from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
   * [Buenos Aires Django Meetup](http://www.meetup.com/Buenos-Aires-Django-Meetup/) - adopted by Buenos Aires Django Meetup from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
+  * [ClojureBridge Berlin](https://clojurebridge-berlin.github.io/) - adopted by ClojureBridge Berlin from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
   * [Cologne JS](http://colognejs.de/) - adopted by Cologne JS from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
   * [Creative Code Berlin](https://groups.google.com/forum/#!forum/creativecodeberlin) - adopted by Creative Code Berlin from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
   * [Data Science for Social Good Berlin](http://dssg-berlin.org/) - adopted by Data Science for Social Good Berlin from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
@@ -56,4 +57,3 @@ This repo is for collecting the code of conducts from different events, conferen
 * [Ruby on Rails](http://rubyonrails.org/conduct/) - adopted by Ruby on Rails from [Contributor Covenant v1.4](http://contributor-covenant.org/version/1/4/)
 * [Rust](https://www.rust-lang.org/conduct.html) - adopted by Rust from [Isaac Z. Schlueter](http://blog.izs.me/post/30036893703/policy-on-trolling) & [Contributor Covenant v1.3](http://contributor-covenant.org/version/1/3/0/)
 * [Semantic RS](https://github.com/semantic-rs/semantic-rs) - adopted by Semantic RS from [Contributor Covenant v1.3](http://contributor-covenant.org/version/1/3/0/)
-* [ClojureBridge Berlin](https://clojurebridge-berlin.github.io/) - adopted by ClojureBridge Berlin from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
