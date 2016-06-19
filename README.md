@@ -36,7 +36,7 @@ This repo is for collecting the code of conducts from different events, conferen
   * [Rails Girls Hamburg](http://railsgirlsberlin.de/) - adopted by Rails Girls Hamburg from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
   * [Raspberry Pi Hackers Berlin](http://www.meetup.com/es-ES/RaspberryPi-Hackers-en-Sevilla/) - adopted by Raspberry Pi Hackers Berlin from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
   * [React Berlin](http://www.meetup.com/React-Berlin/) - adopted by React Berlin from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
-  * [Ruby User Group Berlin](http://wwwrug-b.de) - adopted by RUG-B from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
+  * [Ruby User Group Berlin](http://www.rug-b.de) - adopted by RUG-B from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
   * [Ruby User Group Cologne](http://www.colognerb.de/) - adopted by Ruby UG Cologne from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
   * [Ruby User Group Hamburg](http://hamburg.onruby.de/) - adopted by Ruby UG Hamburg from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
   * [Rust Berlin](http://www.meetup.com/Rust-Berlin/) - adopted by Rust Berlin from [Berlin Code of Conduct](http://berlincodeofconduct.org/)  
