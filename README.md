@@ -37,6 +37,7 @@ This repo is for collecting the code of conducts from different events, conferen
 
 * [Berlin.JS](http://berlinjs.org/) - adopted by Berlin Javascript Usergroup from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
 * [Berlin Mobile](http://www.meetup.com/Buenos-Aires-Django-Meetup/) - adopted by Buenos Aires Django Meetup from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
+* [Berlin Node.JS Community Meetup](https://ti.to/travisci/berlin-node-js-community-meetup) - adopted by Berlin Node.JS Community Meetup from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
 * [Buenos Aires Django Meetup](http://www.meetup.com/Buenos-Aires-Django-Meetup/) - adopted by Buenos Aires Django Meetup from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
 * [Cologne JS](http://colognejs.de/) - adopted by Cologne JS from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
 * [Creative Code Berlin](https://groups.google.com/forum/#!forum/creativecodeberlin) - adopted by Creative Code Berlin from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
