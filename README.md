@@ -30,6 +30,9 @@ This repo is for collecting the code of conducts from different events, conferen
 * [Rails Girls Berlin](http://railsgirlsberlin.de/) - adopted by Rails Girls Berlin from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
 * [Rails Girls Hamburg](http://railsgirlsberlin.de/) - adopted by Rails Girls Hamburg from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
 * [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/about/code-of-conduct/) - adopted by RGSoC from [Citizen Code of Conduct](http://citizencodeofconduct.org/)
+
+#### Open Source Projects
+
 * [Ruby on Rails](http://rubyonrails.org/conduct/) - adopted by Ruby on Rails from [Contributor Covenant v1.4](http://contributor-covenant.org/version/1/4/)
 * [Rust](https://www.rust-lang.org/conduct.html) - adopted by Rust from [Isaac Z. Schlueter](http://blog.izs.me/post/30036893703/policy-on-trolling) & [Contributor Covenant v1.3](http://contributor-covenant.org/version/1/3/0/)
 
