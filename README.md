@@ -21,6 +21,7 @@ This repo is for collecting the code of conducts from different events, conferen
 * [Euruko 2016](http://euruko2016.org/) - adopted by euruko 2016 from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
 * [ViewSource Conf 2016](https://viewsourceconf.org/berlin-2016/code-of-conduct/) - adopted by ViewSource Conf 2016 from [Stumptown Syndicate’s Citizen Code of Conduct](http://citizencodeofconduct.org/) that derived from [Django Code of Conduct](https://www.djangoproject.com/conduct/), [Geekfeminism Conference anti-harassment/Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) and [LGBTQ in Techology](http://lgbtq.technology/coc.html)
 * [Unkonf 2016 Mannheim](https://www.unkonf.de/) - adopted by Unkonf 2016 Mannheim from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
+* [RustFest 2016](http://www.rustfest.eu/) - adopted by RustFest 2016 from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
 
 #### Foundations & Initiatives
 
