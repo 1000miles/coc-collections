@@ -3,6 +3,7 @@
 This repo is for collecting the code of conducts from different events, conferences, meetups and initiatives to have a better overview and to learn from another.
 
 ### CoC Originals (A-Z)
+----
 
 * [Ada Initiative Code of Conduct](http://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) - initiated by Ada Initiative
 * [Community Covenant](http://contributor-covenant.org/) - initiated by Coraline Ada Ehmke
@@ -13,6 +14,11 @@ This repo is for collecting the code of conducts from different events, conferen
 * [Ruby Code of Conduct](https://www.ruby-lang.org/en/conduct/) - initiated by Ruby Community
 
 ### CoC Adaptors & Subadaptors (A-Z)
+----
+
+#### Companies
+
+* [co.up](http://co-up.de/code-of-conduct.html) - adopted & modified by co.up from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
 
 #### Conferences
 
