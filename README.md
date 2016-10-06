@@ -1,7 +1,15 @@
 # Code of Conduct Collections
 
-This repo is for collecting the code of conducts from different events, conferences, meetups and initiatives to have a better overview and to learn from another.
+### Purpose
 
+The purpose of this repo is to collect the original and derived code of conducts from different events, conferences, meetups and initiatives to have a better overview and to learn from another.
+
+### Contribution
+
+If you want to add a group, conference, meetup, etc. or have any ideas to improve the content of this repo, please feel free to create a pull request.
+
+
+----
 ### CoC Originals (A-Z)
 ----
 
