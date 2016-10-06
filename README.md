@@ -8,7 +8,6 @@ The purpose of this repo is to collect the original and derived code of conducts
 
 If you want to add a group, conference, meetup, etc. or have any ideas to improve the content of this repo, please feel free to create a pull request.
 
-
 ----
 ### CoC Originals (A-Z)
 ----
@@ -21,6 +20,7 @@ If you want to add a group, conference, meetup, etc. or have any ideas to improv
 * [Python Code of Conduct](https://www.python.org/psf/codeofconduct/) - initiated by Python Software Foundation
 * [Ruby Code of Conduct](https://www.ruby-lang.org/en/conduct/) - initiated by Ruby Community
 
+----
 ### CoC Adaptors & Subadaptors (A-Z)
 ----
 
