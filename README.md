@@ -26,6 +26,7 @@ This repo is for collecting the code of conducts from different events, conferen
 * [Euruko 2015](http://www.euruko2015.org/) - adopted by euruko 2015 from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
 * [Euruko 2016](http://euruko2016.org/) - adopted by euruko 2016 from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
 * [RustFest 2016](http://www.rustfest.eu/) - adopted by RustFest 2016 from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
+* [Stumptown Syndicate](http://citizencodeofconduct.org/) - adopted by Stumptown Syndicate from [Django Code of Conduct](https://www.djangoproject.com/conduct/) & [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 * [Unkonf 2016 Mannheim](https://www.unkonf.de/) - adopted by Unkonf 2016 Mannheim from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
 * [ViewSource Conf 2016](https://viewsourceconf.org/berlin-2016/code-of-conduct/) - adopted by ViewSource Conf 2016 from [Stumptown Syndicate’s Citizen Code of Conduct](http://citizencodeofconduct.org/) that derived from [Django Code of Conduct](https://www.djangoproject.com/conduct/), [Geekfeminism Conference anti-harassment/Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) and [LGBTQ in Techology](http://lgbtq.technology/coc.html)
 
@@ -71,7 +72,7 @@ This repo is for collecting the code of conducts from different events, conferen
 * [Web Audio Berlin](http://www.meetup.com/Berlin-Web-Audio-Meetup/) - adopted by Web Audio Berlin from [Berlin Code of Conduct](http://berlincodeofconduct.org/)  
 * [Wizard Amigos Institute](http://wizard.amigos.institute/) - adopted by Wizard Amigos Institute from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
 * [Writers Lounge](http://www.meetup.com/letswrite/) - adopted by Writers Lounge from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
-* [Citizen Code of Conduct](http://citizencodeofconduct.org/) - adopted by Citizen Code of Conduct from [Django Code of Conduct](https://www.djangoproject.com/conduct/) & [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
+
 
 #### Online Projects
 
