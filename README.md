@@ -51,6 +51,7 @@ This repo is for collecting the code of conducts from different events, conferen
 * [Django User Group Berlin](http://www.meetup.com/django-user-group-berlin/) - adopted by Django UG Berlin from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
 * [Ebay Tech Talk](http://www.meetup.com/eBay-Europe-Technology/) - adopted by Ebay Europe Technology from [Berlin Code of Conduct](http://berlincodeofconduct.org/)  
 * [Emacs Berlin](http://emacs-berlin.org) - adopted by Emacs Berlin from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
+* [Haeqs Berlin](https://haeqs.xyz/code-of-conduct/) - adopted by Haeqs Berlin from [Dreher, T. (2009). “Eavesdropping with permission: the politics of listening for safer speaking spaces.” Borderlands ejournal, 8(1), 1-29.]
 * [J On the Beach](http://www.jonthebeach.com/) - adopted by J On the Beach from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
 * [Lambda World Cádiz 2015](http://www.lambda.world/) - adopted by Lambda World Cádiz 2015 from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
 * [Málaga Scala Meetup](http://www.meetup.com/Malaga-Scala/) - adopted by Málaga Scala Meetup from [Berlin Code of Conduct](http://berlincodeofconduct.org/)
